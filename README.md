@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmkarShinde1996
 - 👀 I’m interested in Java, DSA, software development
 - 🌱 I’m currently learning DSA, JavaScript, Node js
-- 💞️ I’m looking to collaborate on Java projects
+- :cowboy_hat_face: I’m looking to collaborate on Java projects
 - 📫 How to reach me? email me on ovshinde305@gmail.com
 
 <!---
