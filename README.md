@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OmkarShinde1996
-- 👀 I’m interested in Java, DSA, software development
-- 🌱 I’m currently learning DSA, JavaScript, Node js
-- :cowboy_hat_face: I’m looking to collaborate on Java projects
+- 👋 Hi, I’m Omkar Shinde
+- 👀 I’m interested in JavaScript, React, Typescript & Frontend development
+- 🌱 I’m currently learning React, Typescript, Node Js.
+- :cowboy_hat_face: I’m looking to collaborate on React projects
 - 📫 How to reach me? email me on ovshinde305@gmail.com
 
 <!---
